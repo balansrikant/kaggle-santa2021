@@ -1,4 +1,4 @@
-# Kaggle tabular playground series contest
+# Santa 2021 - The Merry Movie Montage
 
 https://www.kaggle.com/c/santa-2021
 
